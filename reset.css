@@ -76,4 +76,9 @@ h1 {
 .content {
   line-height: 1.5;
 }
+span{
+  color: rgb(6, 175, 51);
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
 
